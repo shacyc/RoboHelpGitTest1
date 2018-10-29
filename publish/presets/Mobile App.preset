@@ -1,0 +1,47 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/Default.toc",
+      "name": "Default"
+    },
+    "glossary": {
+      "path": "../../glossary/Default.glo",
+      "name": "Default"
+    }
+  },
+  "starterPage": "index.html",
+  "name": "Mobile App",
+  "type": "mobileapp",
+  "title": "Blank Project",
+  "defaultTopic": {
+    "name": "First_Topic.htm",
+    "path": "../../contents/First_Topic.htm"
+  },
+  "mobileapp": {
+    "configfile": {
+      "name": "config",
+      "path": "Mobile App/config.json"
+    },
+    "android": true,
+    "iOS": false
+  },
+  "skin": {
+    "name": "Azure_mobile",
+    "path": "../skins/Azure_mobile/html5.skn"
+  },
+  "search": {
+    "fileTypes": {},
+    "fuzzy": true,
+    "suggestion": true,
+    "context": false,
+    "glossary": true,
+    "contextLimit": "100"
+  },
+  "sitemap": {
+    "use": false
+  },
+  "glosstermEffect": 0,
+  "createThumbNails": true,
+  "outputPath": "C:/Users/quan.nguyenle/Documents/My RoboHelp Projects/outputs/RoboHelpTest/Mobile App"
+}

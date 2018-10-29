@@ -1,0 +1,31 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/Default.toc",
+      "name": "Default"
+    },
+    "glossary": {
+      "path": "../../glossary/Default.glo",
+      "name": "Default"
+    }
+  },
+  "starterPage": "Printed Documentation.pdf",
+  "name": "Printed Documentation",
+  "type": "pdf",
+  "title": "Blank Project",
+  "defaultTopic": {
+    "name": "First_Topic.htm",
+    "path": "../../contents/First_Topic.htm"
+  },
+  "pdf": {
+    "multiHeaders": false,
+    "margin": [
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "outputPath": "C:/Users/quan.nguyenle/Documents/My RoboHelp Projects/outputs/RoboHelpTest/Printed Documentation"
+}

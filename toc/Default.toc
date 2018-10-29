@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <page navtitle="First Topic" href="../contents/First_Topic.htm"></page>
+  <book navtitle="Book 1">
+    <page href="../contents/Second_Topic.htm"></page>
+    <page href="../contents/Third_Topic.htm"></page>
+  </book>
+  <book navtitle="Book 2" href="../contents/fourth_topic.htm">
+    <page href="../contents/fourth_topic.htm"></page>
+  </book>
+</map>

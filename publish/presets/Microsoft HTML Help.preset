@@ -1,0 +1,22 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/Default.toc",
+      "name": "Default"
+    },
+    "glossary": {
+      "path": "../../glossary/Default.glo",
+      "name": "Default"
+    }
+  },
+  "starterPage": "Blank_Project.chm",
+  "name": "Microsoft HTML Help",
+  "type": "chm",
+  "title": "Blank Project",
+  "defaultTopic": {
+    "name": "First_Topic.htm",
+    "path": "../../contents/First_Topic.htm"
+  },
+  "outputPath": "C:/Users/quan.nguyenle/Documents/My RoboHelp Projects/outputs/RoboHelpTest/Microsoft HTML Help"
+}

@@ -1,0 +1,39 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/Default.toc",
+      "name": "Default"
+    },
+    "glossary": {
+      "path": "../../glossary/Default.glo",
+      "name": "Default"
+    }
+  },
+  "starterPage": "index.htm",
+  "name": "WebHelp",
+  "type": "webhelp",
+  "title": "Blank Project",
+  "defaultTopic": {
+    "name": "First_Topic.htm",
+    "path": "../../contents/First_Topic.htm"
+  },
+  "skin": {
+    "name": "Azure_web",
+    "path": "../skins/Azure_web/webhelp.skn"
+  },
+  "search": {
+    "fileTypes": {},
+    "fuzzy": true,
+    "suggestion": true,
+    "context": false,
+    "glossary": true,
+    "contextLimit": "100"
+  },
+  "sitemap": {
+    "use": false
+  },
+  "glosstermEffect": 0,
+  "createThumbNails": true,
+  "outputPath": "C:/Users/quan.nguyenle/Documents/My RoboHelp Projects/outputs/RoboHelpTest/WebHelp"
+}

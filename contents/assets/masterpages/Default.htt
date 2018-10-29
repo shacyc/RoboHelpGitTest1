@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Master Page Advanced</title>
+</head>
+<body>
+  <div data-region="header">
+    <p>ĐÂY LÀ TIÊU ĐỀ</p>
+  </div>
+  <div data-region="topic">
+    <p>CONTENT HERE</p>
+  </div>
+  <div data-region="footer">
+    <p>ĐÂY LÀ FOOTER</p>
+  </div>
+</body>
+</html>

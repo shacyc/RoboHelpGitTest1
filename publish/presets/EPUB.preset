@@ -1,0 +1,18 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/Default.toc",
+      "name": "Default"
+    },
+    "glossary": {
+      "path": "../../glossary/Default.glo",
+      "name": "Default"
+    }
+  },
+  "starterPage": "Blank_Project.epub",
+  "name": "EPUB",
+  "type": "epub",
+  "title": "Blank Project",
+  "outputPath": "C:/Users/quan.nguyenle/Documents/My RoboHelp Projects/outputs/RoboHelpTest/EPUB"
+}
